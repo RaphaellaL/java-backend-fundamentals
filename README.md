@@ -5,14 +5,15 @@ Repositório criado para consolidar os estudos em Java Backend,
 abrangendo fundamentos da linguagem, orientação a objetos,
 programação funcional e desenvolvimento de aplicações com Spring Boot.
 
-## Conteúdos abordados
+## Conteúdos abordados (em evolução)
+
 - Java (Fundamentos e Orientação a Objetos)
-- Programação Funcional
-- Spring Boot
-- JPA / Hibernate
-- MySQL
-- MongoDB
-- JavaFX (introdução)
+- Interfaces e Polimorfismo
+- Collections
+- Programação Funcional (Streams)
+- Spring Boot 
+- JPA / Hibernate 
+
 
 ## Objetivo
 Construir uma base sólida em Java Backend,
